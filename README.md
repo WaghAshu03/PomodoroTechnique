@@ -34,6 +34,6 @@ python pomodoro_technique
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/ashutosh-wagh-52642321a/"><img align="left" src="https://github.com/WaghAshu03/WaghAshu03/blob/main/social_media_images/linkedin.png" alt="WaghAshu03 | Instagram" width="35px"/></a>
+<a href="https://www.linkedin.com/in/waghashu03/"><img align="left" src="https://github.com/WaghAshu03/WaghAshu03/blob/main/social_media_images/linkedin.png" alt="WaghAshu03 | Instagram" width="35px"/></a>
 <a href="https://www.instagram.com/waghashu03/"><img align="left" src="https://github.com/WaghAshu03/WaghAshu03/blob/main/social_media_images/instagram.png" alt="WaghAshu03 | Instagram" width="35px"/></a>
 <a href="https://twitter.com/WaghAshu03"><img align="left" src="https://github.com/WaghAshu03/WaghAshu03/blob/main/social_media_images/twitter.png" alt="WaghAshu03 | Instagram" height="35px"/></a>
